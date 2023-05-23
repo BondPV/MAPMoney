@@ -7,9 +7,9 @@
 - [Алеся](https://github.com/Alesia-V175) - Frontend
 
 ## Deploy:
-Frontend: https://mapmoney.netlify.app
-Backend: https://mapmoney.onrender.com
-Репозиторий backend: https://github.com/BondPV/rsclone-server/tree/develop
+Frontend: https://mapmoney.netlify.app  
+Backend: https://mapmoney.onrender.com  
+Репозиторий backend: https://github.com/BondPV/rsclone-server/tree/develop  
 
 Для проверки функционала требуется регистрация/авторизация.
 
